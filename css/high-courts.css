@@ -1,0 +1,31 @@
+body {
+    background-color: white !important;
+}
+.container-fluid{
+  margin-top: 20px;
+}
+
+.container {
+  margin: 50px;
+}
+p{
+  font-size: 50px;
+}
+.row{
+  border-radius: 20px;
+  background-color: #b3d4fc;
+  height: 200px;
+}
+.row1{
+  border-radius: 20px;
+  height: 300px;
+  background-color: #B0DA75;
+}
+.row2{
+  border-radius: 20px;
+  height: 300px;
+  background-color: #B0DA75;
+}
+p{
+  color: rgb(26, 24, 24);
+}
